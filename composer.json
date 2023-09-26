@@ -1,0 +1,21 @@
+{
+    "name": "cofficcc/php-framework",
+    "description": "php framework",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cofficcc\\PhpFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksandr",
+            "email": "aleksandr.shliakhturov@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
