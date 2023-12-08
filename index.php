@@ -20,3 +20,5 @@ session_start();
 
 $router = new Router;
 $router->run();
+//phpscan_auth_token
+//337|O1MZsDIpKcpDfs2i3JMiEtqI28ZCzZRDbZP9doed5985a50a
